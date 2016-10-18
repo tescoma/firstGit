@@ -1,0 +1,7 @@
+
+Scanning
+
+Creating archive Z:\nvm\backupRar\sendmail1.7z
+
+
+Everything is Ok
